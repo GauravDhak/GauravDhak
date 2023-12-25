@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate learner and currently diving into
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/gaurav-dhak/)
+- [LinkedIn](https://www.linkedin.com/in/gauravdhak/)
 - [Hashnode](https://gaurav789.hashnode.dev)
 - [Twitter](https://twitter.com/GauravDhak)
 
