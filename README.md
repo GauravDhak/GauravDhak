@@ -18,9 +18,9 @@ Here, you'll find some of my projects and contributions related to electronics a
 
 ### 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/gauravdhak/)
-- [Hashnode](https://gaurav789.hashnode.dev)
-- [Twitter](https://twitter.com/GauravDhak)
+[LinkedIn](https://www.linkedin.com/in/gauravdhak/)
+[Hashnode](https://gaurav789.hashnode.dev)
+[Twitter](https://twitter.com/GauravDhak)
 
 ### 🚀 Skills
 
@@ -35,7 +35,7 @@ Here, you'll find some of my projects and contributions related to electronics a
 - FPGA Prototyping
 - RTL Coding
 - Real-Time Operating Systems (RTOS)
-- Shell Scripting
+- Linux OS
 
 #### Design and Development:
 - Very-Large-Scale Integration (VLSI)
