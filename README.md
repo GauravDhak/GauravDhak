@@ -1,6 +1,6 @@
 
-```markdown
-**Hi there!** 👋 **I'm Gaurav Dhak**
+
+<h2>Hi there! 👋 I'm Gaurav Dhak<h2/>
 
 Welcome to my GitHub profile! I'm a dedicated student at NIELIT Aurangabad, pursuing a B.Tech in Electronics System Engineering. Here, you'll find some of my projects and contributions related to electronics and VLSI. Feel free to explore and connect with me!
 
