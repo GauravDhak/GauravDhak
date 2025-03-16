@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm a dedicated student at NIELIT Aurangabad, pursuing a B.Tech in Electronics System Engineering. Here, you'll find some of my projects and contributions related to electronics and VLSI. Feel free to explore and connect with me!
 
 **Find My Resume :-**
-[Resume 🖐️🖐️](https://drive.google.com/file/d/1IZ-2fU8YzG0paBWlv4D_MjpgSOuar2Ip/view?usp=sharing)
+[Resume 🖐️🖐️](https://drive.google.com/file/d/136ZF55-9p3xPk_8I-5YHu34n2sVTy8lF/view?usp=sharing)
 
 🌱 **Currently Learning**
 
