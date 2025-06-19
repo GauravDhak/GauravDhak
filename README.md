@@ -1,62 +1,170 @@
+<h1 align="center">Hi there 👋, I'm Gaurav Dhak</h1>
 
+<p align="center">
+  <i>🎓 Electronics System Engineering Graduate | VLSI & FPGA Enthusiast | Class of 2025</i><br>
+  <i>📍 NIELIT Aurangabad</i>
+</p>
 
-<h2>Hi there! 👋 I'm Gaurav Dhak<h2/>
+---
 
-Welcome to my GitHub profile! I'm a dedicated student at NIELIT Aurangabad, pursuing a B.Tech in Electronics System Engineering. Here, you'll find some of my projects and contributions related to electronics and VLSI. Feel free to explore and connect with me!
+### 💡 About Me
 
-**Find My Resume :-**
-[Resume 🖐️🖐️](https://drive.google.com/file/d/136ZF55-9p3xPk_8I-5YHu34n2sVTy8lF/view?usp=sharing)
+I'm Gaurav, a passionate Electronics Engineering graduate specializing in **VLSI Design, FPGA Prototyping**, and **Embedded Hardware Systems**. I enjoy building high-impact digital designs and bringing them to life through RTL coding, verification, and real-time FPGA testing. My projects reflect a deep interest in digital logic, hardware security, and embedded intelligence.
 
-🌱 **Currently Learning**
+Here on my GitHub, you’ll find hardware design and system-level projects like:
 
-- Embedded Systems
-- Verilog
-- Digital Frontend Design
-- ASIC Design
-- CMOS Technology
-- EDA Tools 
+- 🔐 **AES-128 Hardware Encryption**  
+- 🔁 **SPI Protocol using Verilog**  
+- 📶 **Dual-Frequency Sine Wave Generator (PL+PS in Vivado)**  
+- 🧠 **Branch Prediction using 2-bit Saturating Counter**  
+- 💾 **Memory Bank System**  
+- 📡 **Beamforming on FPGA using Array Processing**
 
-📫 **How to Reach Me**
+---
 
-- Email: gauravdhak2003@gmail.com
+### 📄 [View My Resume](<h1 align="center">Hi there 👋, I'm Gaurav Dhak</h1>
 
-🔗 **Connect with Me**
+<p align="center">
+  <i>🎓 Electronics System Engineering Graduate | VLSI & FPGA Enthusiast | Class of 2025</i><br>
+  <i>📍 NIELIT Aurangabad</i>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/gauravdhak/)  
-[Hashnode](https://gaurav789.hashnode.dev)  
-[Twitter](https://twitter.com/GauravDhak)
+---
 
-🚀 **Skills**
+### 💡 About Me
 
-**Languages:**
-- C/C++
-- Python
-- Verilog HDL
-- perl
-- tcl
+I'm Gaurav, a passionate Electronics Engineering graduate specializing in **VLSI Design, FPGA Prototyping**, and **Embedded Hardware Systems**. I enjoy building high-impact digital designs and bringing them to life through RTL coding, verification, and real-time FPGA testing. My projects reflect a deep interest in digital logic, hardware security, and embedded intelligence.
 
-**Tools & Technologies:**
-- GNU/Linux
-- Xilinx ISE
-- FPGA Prototyping
-- RTL Coding
-- Linux OS
-- Icarus Verilog
-- Yosys
-- Bamboo
-- Esim_EDA
+Here on my GitHub, you’ll find hardware design and system-level projects like:
 
-**Design and Development:**
-- Very-Large-Scale Integration (VLSI)
-- Application-Specific Integrated Circuits (ASIC)
-- Verilog/SystemVerilog
-- Universal Verification Methodology (UVM)
-- RTL Design
-- Static Timing Analysis (STA)
-- Electronic Design Automation (EDA)
+- 🔐 **AES-128 Hardware Encryption**  
+- 🔁 **SPI Protocol using Verilog**  
+- 📶 **Dual-Frequency Sine Wave Generator (PL+PS in Vivado)**  
+- 🧠 **Branch Prediction using 2-bit Saturating Counter**  
+- 💾 **Memory Bank System**  
+- 📡 **Beamforming on FPGA using Array Processing**
 
+---
 
-If you share similar interests or have something interesting to discuss, feel free to reach out!
+### 📄 [View My Resume](https://drive.google.com/file/d/136ZF55-9p3xPk_8I-5YHu34n2sVTy8lF/view?usp=sharing)
 
-Happy coding! 🚀
-```
+---
+
+### 🌱 What I'm Currently Focusing On
+
+- 🔧 RTL & Verification using SystemVerilog + UVM  
+- 💡 ASIC Frontend Design Flow  
+- 🧬 Secure Hardware Architectures  
+- 🛠️ FPGA-Based Prototyping  
+- 📊 Static Timing Analysis, STA/DRC Sign-off  
+- 🧠 Embedded AI + Edge Design Flow  
+- 🏗️ Digital SoC Architecture Design
+
+---
+
+### 💼 Skills & Tech Stack
+
+#### 👨‍💻 **Programming Languages**
+`C` `C++` `Python` `Verilog` `SystemVerilog` `TCL` `Perl`
+
+#### ⚙️ **Tools & Platforms**
+`Vivado` `ISE Design Suite` `Icarus Verilog` `GTKWave`  
+`Yosys` `Sky130 PDK` `GHDL` `Bamboo EDA` `Esim`  
+`Fusion Compiler` `ICVWB` `Linux (Ubuntu)` `Git`  
+
+#### 💻 **Domains**
+- RTL Design and Functional Verification  
+- FPGA Prototyping (Zynq ZCU104, Basys3)  
+- ASIC Digital Frontend (Synthesis, Floorplan, STA)  
+- UVM-Based Verification Methodology  
+- Power Grid Design and Clock Domain Crossing  
+- Hardware Security Design (AES, Custom ISA, etc.)
+
+---
+
+### 📫 Get in Touch
+
+- 📧 **Email:** [gauravdhak2003@gmail.com](mailto:gauravdhak2003@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gauravdhak/)  
+- 📝 [Hashnode Blog](https://gaurav789.hashnode.dev)  
+- 🐦 [Twitter / X](https://twitter.com/GauravDhak)
+
+---
+
+### 📊 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gauravdhak&style=flat-square&color=0e75b6" alt="visitor counter"/>
+</p>
+
+---
+
+### 🤝 Let’s Collaborate
+
+If you're exploring domains like **semiconductor design**, **hardware security**, or **AI hardware acceleration**, I’d love to connect or collaborate on meaningful projects. Always open to contributing and learning!
+
+---
+
+> *“Logic is not just design — it's how you bring life into silicon.”*
+
+)
+
+---
+
+### 🌱 What I'm Currently Focusing On
+
+- 🔧 RTL & Verification using SystemVerilog + UVM  
+- 💡 ASIC Frontend Design Flow  
+- 🧬 Secure Hardware Architectures  
+- 🛠️ FPGA-Based Prototyping  
+- 📊 Static Timing Analysis, STA/DRC Sign-off  
+- 🧠 Embedded AI + Edge Design Flow  
+- 🏗️ Digital SoC Architecture Design
+
+---
+
+### 💼 Skills & Tech Stack
+
+#### 👨‍💻 **Programming Languages**
+`C` `C++` `Python` `Verilog` `SystemVerilog` `TCL` `Perl`
+
+#### ⚙️ **Tools & Platforms**
+`Vivado` `ISE Design Suite` `Icarus Verilog` `GTKWave`  
+`Yosys` `Sky130 PDK` `GHDL` `Bamboo EDA` `Esim`  
+`Fusion Compiler` `ICVWB` `Linux (Ubuntu)` `Git`  
+
+#### 💻 **Domains**
+- RTL Design and Functional Verification  
+- FPGA Prototyping (Zynq ZCU104, Basys3)  
+- ASIC Digital Frontend (Synthesis, Floorplan, STA)  
+- UVM-Based Verification Methodology  
+- Power Grid Design and Clock Domain Crossing  
+- Hardware Security Design (AES, Custom ISA, etc.)
+
+---
+
+### 📫 Get in Touch
+
+- 📧 **Email:** [gauravdhak2003@gmail.com](mailto:gauravdhak2003@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gauravdhak/)  
+- 📝 [Hashnode Blog](https://gaurav789.hashnode.dev)  
+- 🐦 [Twitter / X](https://twitter.com/GauravDhak)
+
+---
+
+### 📊 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gauravdhak&style=flat-square&color=0e75b6" alt="visitor counter"/>
+</p>
+
+---
+
+### 🤝 Let’s Collaborate
+
+If you're exploring domains like **semiconductor design**, **hardware security**, or **AI hardware acceleration**, I’d love to connect or collaborate on meaningful projects. Always open to contributing and learning!
+
+---
+
+> *“Logic is not just design — it's how you bring life into silicon.”*
+
